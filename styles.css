@@ -1,0 +1,20 @@
+﻿.jornal {
+	
+	-webkit-column-count: 4; /* Chrome, Safari, Opera */
+	-moz-column-count: 4; /* Firefox */
+	column-count: 4;
+
+	-webkit-column-gap: 40px;    
+	-moz-column-gap: 40px; 
+	column-gap: 40px;
+
+	-webkit-column-rule: 1px solid lightblue;     
+	-moz-column-rule: 1px solid lightblue; 
+	column-rule: 1px solid lightblue;
+
+}
+
+.div {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
